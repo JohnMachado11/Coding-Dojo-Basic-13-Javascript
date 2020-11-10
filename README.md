@@ -1,5 +1,5 @@
 # Coding-Dojo-Basic-13-Javascript
-Coding Dojo's "Basic 13" Algorithms Done in Javascript
+The "Basic 13" Algorithms from Coding Dojo
 
 **1. Get 1 to 255**:
   Write a function that returns an array with all the numbers from 1 to 255. You may use the push() function for this exercise.
