@@ -12,5 +12,5 @@ function greaterY(arr, Y) {
     return count; 
 }
 
-x = greaterY([1,2,4,6,7,8,9], 2); // 5
-console.log(x);
+x = greaterY([1,2,4,6,7,8,9], 2); 
+console.log(x); // 5
