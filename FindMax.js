@@ -12,5 +12,5 @@ function findMax(arr) {
     return max; 
 }
 
-x = findMax([6,22,-2,1,5,99,2,99.1,100]); // 100
-console.log(x);
+x = findMax([6,22,-2,1,5,99,2,99.1,100]); 
+console.log(x); // 100
