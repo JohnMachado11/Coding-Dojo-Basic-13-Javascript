@@ -11,5 +11,5 @@ function sum_odd_5000(num) {
     return sum; 
 }
 
-x = sum_odd_5000(5000); // 6250000
-console.log(x);
+x = sum_odd_5000(5000); 
+console.log(x); // 6250000
