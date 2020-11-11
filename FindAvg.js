@@ -12,5 +12,5 @@ function findAvg(arr) {
     return avg; 
 }
 
-x = (findAvg([5,2,3,5,5])); // 4
-console.log(x);
+x = (findAvg([5,2,3,5,5])); 
+console.log(x); // 4
