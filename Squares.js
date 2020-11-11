@@ -9,5 +9,5 @@ function squareVal(arr) {
     return arr; 
 }
 
-x = (squareVal([2,4,6,8])); // [4,16,36,64]
-console.log(x);
+x = (squareVal([2,4,6,8])); 
+console.log(x); // [4, 16, 36, 64]
