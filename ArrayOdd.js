@@ -12,4 +12,4 @@ function oddNumbers(num) {
 }
 
 x = oddNumbers(50);
-console.log(x);
+console.log(x); // [1,3,5, ... 49]
