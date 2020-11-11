@@ -9,5 +9,5 @@ function iterArr(arr) {
     return sum; 
 }
 
-x = iterArr([1,2,3]); // 6
-console.log(x);
+x = iterArr([1,2,3]); 
+console.log(x); // 6
