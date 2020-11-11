@@ -11,5 +11,5 @@ function noNeg(arr) {
     return arr; 
 }
 
-x = noNeg([1,-2,5,3,-1,-0.1]); // [1,0,5,3,0,0]
-console.log(x);
+x = noNeg([1,-2,5,3,-1,-0.1]); 
+console.log(x); // [1, 0, 5, 3, 0, 0]
