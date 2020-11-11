@@ -24,5 +24,5 @@ function maxMinAvg(arr) {
     return arrnew; 
 }
 
-x = maxMinAvg([12,3,-5,2,3,100,-6]); // [ 100, -6, 15.571]
-console.log(x);
+x = maxMinAvg([12,3,-5,2,3,100,-6]); 
+console.log(x); // [ 100, -6, 15.571]
