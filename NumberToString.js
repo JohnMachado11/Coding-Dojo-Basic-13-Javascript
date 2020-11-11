@@ -11,5 +11,5 @@ function numToStr(arr) {
     return arr; 
 }
 
-x = numToStr([-1,3,-4,-2,5,6,-7]);
-console.log(x);
+x = numToStr([-1,3,-4,2,-5]);
+console.log(x); // ['Dojo', 3, 'Dojo', 2, 'Dojo' ]
