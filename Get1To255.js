@@ -9,5 +9,5 @@ function get_array(num) {
     return arr; 
 }
 
-x = get_array(255); // [1,2,3,4,5...255]
-console.log(x);
+x = get_array(255); 
+console.log(x); // [1, 2, 3, 4, 5...255]
