@@ -8,5 +8,5 @@ function swap(arr) {
     return arr; 
 }
 
-x = swap([4,3,8,9]); // [9,3,8,4]
-console.log(x);
+x = swap([3,4,3,8,9]); 
+console.log(x); // [9, 4, 3, 8, 3]
