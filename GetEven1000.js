@@ -12,5 +12,5 @@ function sum_even_numbers(num){
     return sum; 
 }
 
-x = sum_even_numbers(1000); // 250500
-console.log(x);
+x = sum_even_numbers(1000);
+console.log(x); // 250500
